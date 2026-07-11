@@ -1,0 +1,6 @@
+baseURL = "https://m-Michi.github.io/blog_project/"
+languageCode = "zh-cn"
+title = "My Blog"
+theme = ""
+publishDir = "public"
+enableGitInfo = true
